@@ -12,9 +12,5 @@ def isPalindrome( s: str) -> bool:
                 return True
             right-=1
     return True
-        
-            
-
-
 
 print(isPalindrome("0P"))
